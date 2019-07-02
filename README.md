@@ -25,4 +25,4 @@ This application can be used to share and view Notes with each other online. The
 ## Screenshots
 
 ![image](screenshot1.png)
-![image](screenshot2.png)
+![image](screenshot2.PNG)
